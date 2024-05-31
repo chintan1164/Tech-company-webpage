@@ -1,9 +1,7 @@
 # Tech company webpage
-This project showcases a visually stunning website designed to demonstrate various CSS effects and modern web design techniques.
 
-## Description
-
-The Tech company web page is a single-page website that presents the company's services, team members, blog posts, and contact information in a visually appealing and user-friendly manner. Each section of the website features modern CSS effects, including smooth scrolling, responsive navigation, hover effects, and more.
+## Overview
+This project showcases a visually stunning website designed to demonstrate various CSS effects and modern web design techniques. The Tech company web page is a single-page website that presents the company's services, team members, blog posts, and contact information in a visually appealing and user-friendly manner. Each section of the website features modern CSS effects, including smooth scrolling, responsive navigation, hover effects, and more.
 
 ## Features
 
